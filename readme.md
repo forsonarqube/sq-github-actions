@@ -6,7 +6,7 @@ This repository contain an example of [SonarQube](https://docs.sonarsource.com/s
 [![en](https://img.shields.io/badge/en-english-blue.svg)](https://github.com/brainsDevopsOrg/sq-github-actions/blob/main/readme.md)
 [![es](https://img.shields.io/badge/es-español-yellow.svg)](https://github.com/brainsDevopsOrg/sq-github-actions/blob/main/readme-es.md)
 
-## Context
+## Contexts
 This repository is part of my Udemy course:
 * [SonarQube Mastery](https://www.udemy.com/course/sonarqube-mastery/?referralCode=EF59257E7D8DC3026D6D)
 
