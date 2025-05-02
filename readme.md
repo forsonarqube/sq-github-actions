@@ -1,6 +1,6 @@
 # Github Actions and SonarQube integration
 
-This repository contains an example of [SonarQube](https://docs.sonarsource.com/sonarqube/10.3/) integration with [Github Actions](https://docs.github.com/en/actions). Running SonarQube locally and publishing it to the world using [ngrok](https://ngrok.com/)
+This repository contain an example of [SonarQube](https://docs.sonarsource.com/sonarqube/10.3/) integration with [Github Actions](https://docs.github.com/en/actions). Running SonarQube locally and publishing it to the world using [ngrok](https://ngrok.com/)
 
 ## Other language / Otros idiomas
 [![en](https://img.shields.io/badge/en-english-blue.svg)](https://github.com/brainsDevopsOrg/sq-github-actions/blob/main/readme.md)
