@@ -1,5 +1,5 @@
 const sonarqubeUrl = process.env.SONARQUBE_URL || 'http://localhost:9000';
-const authToken = process.env.SONARQUBE_TOKEN || 'squ_753d5e97609d74a63adefa4bc7aa9a7bb4338184';
+const authToken = process.env.SONARQUBE_TOKEN || 'your-sonarqube-auth-token';
 
 async function getProjectsByVisibility(visibility) {
   try {
